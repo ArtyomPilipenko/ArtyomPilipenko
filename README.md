@@ -78,9 +78,7 @@
 
 ## 🪴 Практика и стажировка
 [<img src="/auto_ea.png" width="280px" hspace="10px" alt="Сертификат auto_ea»">](https://raw.githubusercontent.com/ArtyomPilipenko/ArtyomPilipenko/refs/heads/master/auto_ea.png)
-[<img src="/certificate2.png" width="280px" hspace="10px" alt="Сертификат Kvadra»">](https://raw.githubusercontent.com/German-D/German-D/main/certificate2.png)
-[<img src="/certificate3.png" width="280px" hspace="10px" alt="Сертификат 4fresh»">](https://raw.githubusercontent.com/German-D/German-D/main/certificate3.png)
-[<img src="/stepic_ru.png" width="280px" hspace="10px" alt="Сертификат от степика»">](https://raw.githubusercontent.com/German-D/German-D/main/stepic_ru.png)
+[<img src="/catch_up.png" width="280px" hspace="10px" alt="Сертификат CatchUp»">](https://raw.githubusercontent.com/ArtyomPilipenko/ArtyomPilipenko/refs/heads/master/catch_up.png)
 
 <br>
 
