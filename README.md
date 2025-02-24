@@ -40,7 +40,6 @@
 <div>
   <img src="https://raw.githubusercontent.com/maliceio/kibana/master/docs/kibana-logo.png" title="Kibana" alt="Kibana" width="40" height="40"/>&nbsp
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Sentry.svg" title="Sentry" alt="Sentry" width="40" height="40"/>&nbsp
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Grafana-Dark.svg" title="Grafana" alt="Grafana" width="40" height="40"/>&nbsp
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bash-Dark.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp
 </div>
 
